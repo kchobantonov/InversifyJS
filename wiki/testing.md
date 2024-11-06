@@ -1,3 +1,5 @@
+<p id="reading-time-action-id" align="left">5 min read</p>
+
 # Testing
 
 Testing is an essential aspect of software development, ensuring that your code behaves as expected and remains
